@@ -1,1 +1,2 @@
-docker exec -it nginx %*
+@echo off
+docker exec -it nginx nginx %*
