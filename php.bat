@@ -1,1 +1,2 @@
-docker exec -it php bash
+@echo off
+docker exec -it php php %*
